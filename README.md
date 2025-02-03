@@ -1,4 +1,4 @@
-# Dominos-Predictive Purchase Order System
+# Dominos
 
 ## Skills Takeaway from This Project
 - Data cleaning and preprocessing
